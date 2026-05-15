@@ -1,0 +1,8 @@
+pyside6
+pyqtgraph
+sounddevice
+numpy
+scipy
+python-rtmidi
+
+#leave it just names for now add the wanted version later
