@@ -23,11 +23,7 @@ A Python-based synthesiser and step sequencer with MIDI and DJ controller suppor
    `source .venv/bin/activate`
 
 ## Running the App
-- rn do
-```bash
-cd /Users/alexlee/python-daw-project
-python src/laav/main.py
-```
+- rn do `laav-run`
 
 
 - `source .venv/bin/activate` (only if virtual environment is not active)
